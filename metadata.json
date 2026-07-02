@@ -1,0 +1,6 @@
+{
+  "name": "Digit Recognizer AI",
+  "description": "An interactive, client-side handwritten digit recognizer and neural network playground featuring real-time training, visual weight pathways, and a tech mentor guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
